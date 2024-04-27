@@ -1,0 +1,59 @@
+    1  git config --get user.email
+    2  cd /c/users/thena/home_work
+    3  cd /c/users/thena/documents/home_work
+    4  ls -l
+    5  ls -l
+    6  git clone https://github.com/svyryk79/HW_10.git
+    7  ls -l
+    8  cd HW_10
+    9  ls -l
+   10  ls -la
+   11  vim .gitignore
+   12  touch test_ignore.txt
+   13  ls -l
+   14  git status
+   15  clear
+   16  git add
+   17  git add .
+   18  git commit -m "changed gitignore"
+   19  git status
+   20  git push origin main
+   21  vim .gitignore
+   22  ls -l
+   23  git status
+   24  git status
+   25  touch main_test.txt
+   26  ls -l
+   27  rm test_ignore.txt
+   28  ls -l
+   29  clear
+   30  git status
+   31  git add/rm Test_ignore.txt
+   32  git add .
+   33  git status
+   34  git comit -m "added new file"
+   35  git commit -m "added new file"
+   36  git status
+   37  git log
+   38  clear
+   39  git checkout -b develop
+   40  git branch
+   41  git status
+   42  touch develop_test.txt
+   43  ls -l
+   44  git status
+   45  git add .
+   46  git status
+   47  git commit -m "added new file"
+   48  git status
+   49  git log
+   50  clear
+   51  git checkout develop
+   52  git push origin develop
+   53  git checkout main
+   54  git merge develop
+   55  git status
+   56  git log
+   57  git push origin main
+   58  clear
+   59  history >command_list.csv
