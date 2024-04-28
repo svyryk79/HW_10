@@ -57,3 +57,51 @@
    57  git push origin main
    58  clear
    59  history >command_list.csv
+   60  git add .
+   61  git status
+   62  git commit -m "added new file"
+   63  git status
+   64  git log
+   65  clear
+   66  git push
+   67  cd /c/users/thena/documents/HW_10
+   68  cd /c/users/thena/documents/home_work/HW_10
+   69  touch text_ignore.txt
+   70  git sdd .
+   71  git add .
+   72  git status
+   73  ls -l
+   74  git status
+   75  cd develop_test
+   76  ls -l
+   77  vim develope_test.txt
+   78  vim develop_test.txt
+   79  clear
+   80  ls -l
+   81  ls -l
+   82  ls -l
+   83  cat develop_test.text
+   84  cat develop_test.txt
+   85  clear
+   86  ls -la
+   87  git status
+   88  git add .
+   89  git status
+   90  git commit -m "added new file"
+   91  git status
+   92  git log
+   93  clear
+   94  ls -l
+   95  ls -l
+   96  git add command_list.csv
+   97  git status
+   98  git add *
+   99  git add .
+  100  git stayus
+  101  git status
+  102  git push origin HW_10
+  103  git push origim develop_test.txt
+  104  git push origin
+  105  clear
+  106  history >command_list.csv
+  107  history > command_list.csv
